@@ -164,7 +164,7 @@ Send the JWT in every protected request:
 ## 🌐 Deployment
 
 Hosted on **Render**
-(Deployment URL: )
+(Deployment URL: https://finance-dashboard-api-djkx.onrender.com/)
 
 ---
 
